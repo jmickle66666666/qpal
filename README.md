@@ -3,7 +3,7 @@ Convert between quake palette files and png
 
 Requires python 3, and PIL imaging library
 
-Usage:
+### Usage
 
 `python qpalconvert.py palette.lmp`
 
