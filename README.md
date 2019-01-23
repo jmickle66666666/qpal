@@ -1,8 +1,6 @@
 # qpalconvert.py
 Convert between quake palette files and png
 
-Requires python 3, and PIL imaging library
-
 ### Usage
 
 #### windows/mac
@@ -14,6 +12,8 @@ In the commandline you can type `qpalconvert my_new_palette.png` and it will out
 On windows, you can also just drag and drop your image onto `qpalconvert.exe` and it will work without having to use the commandline.
 
 #### python
+
+Requires python 3, and PIL imaging library
 
 `python qpalconvert.py palette.lmp`
 
