@@ -1,5 +1,7 @@
 # qpalconvert.py
-Convert between quake palette files and png
+Convert between quake palette files and png, to create new cool palettes for quake
+
+![preview](https://github.com/jmickle66666666/qpal/blob/master/preview.png)
 
 ### Usage
 
