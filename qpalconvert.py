@@ -31,6 +31,7 @@ def convert_image_to_palette(input_path, output_path):
     f = open(output_path, 'wb')
 
     img = Image.open(input_path)
+    img = img.convert("RGB")
     for i in range(256):
         x = i % 16
         y = math.floor(i / 16)
